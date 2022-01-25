@@ -1,0 +1,31 @@
+html{
+   font-size: 62.5%;
+}
+
+h1{
+   text-align: center;
+   color: rgb(15, 15, 130);
+   background-color: rgb(210, 220, 240);
+ 
+
+}
+h4{
+   color: rgb(20, 170, 130);
+}
+.blockchain{
+   margin-left: 0.5rem;
+   margin-top: 0.5rem;
+}
+.funix{
+   margin-left: 0.5rem;
+   margin-top: 0.5rem;
+}
+.fa-angle-right{
+   font-size: 0.95rem;
+}
+.chuong{
+   font-style: bolder;
+}
+.c__c1--title{
+   margin-left: 1rem;
+}
